@@ -1,0 +1,7 @@
+dist/
+node_modules/
+images/**
+out/**
+.env
+.swp
+cache/**
